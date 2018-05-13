@@ -10,7 +10,3 @@ $TTL 1D
         AAAA    ::1
 
 *.magi-reco.com                 A       192.168.142.1
-;android.magi-reco.com		A	211.159.154.20
-;api-puchiguru.pokelabo.jp	A	192.168.142.1
-
-www.googleapis.com		A	192.168.142.2
